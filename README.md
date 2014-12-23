@@ -18,7 +18,7 @@ SpacePort is a (currently mock) game launcher written with web technologies. It 
 4. Run `bower i`
 5. Run `./bin/atom main.js`
 
-[### LICENSE](LICENSE)
+### [LICENSE](LICENSE)
 
 #### MIT
 
