@@ -1,0 +1,53 @@
+{
+  "theme": {
+    "name": "modern",
+    "variant": "dark",
+    "icon": "icon.png"
+  },
+  "launcherWindow": {
+    "x": null,
+    "y": null,
+    "width": 320,
+    "height": 480,
+    "use-content-size": false,
+    "center": true,
+    "min-width": 320,
+    "min-height": 480,
+    "max-width": null,
+    "max-height": null,
+    "resizable": true,
+    "always-on-top": false,
+    "fullscreen": false,
+    "skip-taskbar": false,
+    "zoom-factor": 1,
+    "kiosk": false,
+    "title": "SpacePort",
+    "icon": "icon.png",
+    "show": true,
+    "frame": false,
+    "node-integration": true,
+    "accept-first-mouse": false,
+    "auto-hide-menu-bar": false,
+    "enable-larger-than-screen": false,
+    "dark-theme": true,
+    "preload": "/home/sean/projects/spaceport/jquery.min.js",
+    "web-preferences": {
+      "javascript": true,
+      "web-security": false,
+      "images": true,
+      "java": false,
+      "text-areas-are-resizable": false,
+      "webgl": true,
+      "webaudio": true,
+      "plugins": true,
+      "extra-plugin-dirs": [],
+      "experimental-features": true,
+      "experimental-canvas-features": true,
+      "subpixel-font-scaling": true,
+      "overlay-scrollbars": true,
+      "overlay-fullscreen-video": true,
+      "shared-worker": true,
+      "direct-write": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SpacePort",
+  "version": "1.0.0",
+  "authors": [
+    "Sean Clayton <clayton.sean@gmail.com>"
+  ],
+  "description": "Game launcher written in web technologies",
+  "main": "main.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://git.seanclayton.me/sean/spaceport",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "res/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2"
+  }
+}
